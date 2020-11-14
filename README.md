@@ -11,10 +11,10 @@ multiple threads rather than sequentially on a single thread, which improved the
 a great extent.
 
 1. With multithreading approach in problem 2 response time is 494ms.
-![picture](img/Img_1_MT.png)
+![picture](https://github.com/shashnk96/Rest_API/blob/master/img/Img_1_MT.PNG)
 
 2. Without multithreading response time is 3.4sec. 
-![picture](img/Img_2.png)
+![picture](https://github.com/shashnk96/Rest_API/blob/master/img/Img_2.PNG)
 ### Reference Documentation
 For further reference, please consider the following sections:
 
